@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.galeriaF{
+    margin-top: 2vh;
+}
+
+.galeriaF img{
+    height: 26vh;
+    width: 16vw;
+    margin-right: 1vw;
+    margin-top: 1vh;
+    border: 6px solid rgb(139, 14, 14)  
+}
+
+body{
+    background-color: rgb(245, 122, 122);
+    padding-left: 7.5vw;
+    
+}
+.pagina h1{
+    font-size: 6vh;
+    margin-left: 32.5vw;
+    margin-top: 3vh;
+}
